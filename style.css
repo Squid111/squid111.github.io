@@ -1,0 +1,52 @@
+.title {
+	font-size: 55px;
+	color: IndianRed;
+}
+
+.solIMG {
+	float: 30px;
+	height: 500px;
+}
+
+.body {
+	margin: 45px;
+	padding: 0px;
+
+}
+
+.bodyP {
+	font-size: 18px;
+	padding: 16px;
+}
+
+.bodyWhat {
+	font-size: 24px;
+	padding: 16px;
+}
+
+.list {
+	font-size: 18px;
+}
+
+.centreIMG {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 45%;
+}
+
+.centreTXT {
+	text-align: center;
+}
+
+#saul {
+	height: 500px;
+}
+
+#video {
+	margin: 45px;
+}
+
+
+
+       
